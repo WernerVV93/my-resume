@@ -1,0 +1,22 @@
+.contacticon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+    height: 68.6%;
+}
+
+.contactheader {
+    font-family: 'WELTRON2';
+    text-align: center;
+    font-size: 5rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104)
+}
+
+.links {
+    font-family: "PRIMER";
+    font-weight: bold;
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+    text-decoration: none;
+}

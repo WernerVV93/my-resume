@@ -1,0 +1,43 @@
+.mainheader {
+    text-align: center;
+    font-family: 'WELTRON2';
+    font-size: 2.5rem;
+    height: 3rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.Werner{
+    border-radius: 20%;
+    width: 12rem;
+    height: 17rem;
+    display: block;
+    margin: 0 auto;
+    border: solid 0rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 1);
+}
+
+.Textstyle {
+    display: flex;
+    flex-direction: column;
+}
+
+.header1 {
+font-size: 40px;
+text-align: center;
+font-family: 'WELTRON2';
+margin: 0 100px;
+color: rgb(0, 0, 0);
+text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.para {
+    margin: 1px 0;
+    white-space: pre-wrap;
+    font-size: 1.8rem;
+    text-align: center;
+    font-family: 'PRIMER';
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}

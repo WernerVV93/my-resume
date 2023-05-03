@@ -1,0 +1,98 @@
+.edu-cert {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    height: 100%;
+    margin: 0;
+}
+
+.edu-ul {
+    list-style-type: disc;
+}
+
+.school1 {
+    margin-bottom: 1rem;
+    font-family: "PRIMER";
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.2;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.column {
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgb(90, 89, 89);
+    padding: 1rem;
+    backdrop-filter: blur(5px);
+    background-color: #ffffff52;
+    margin: 3rem;
+}
+
+.edu1 {
+    text-align: center;
+    font-family: 'WELTRON2';
+    font-size: 2.5rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.cert-ul {
+    list-style-type: disc;
+}
+
+.certheader {
+    text-align: center;
+    font-family: 'WELTRON2';
+    font-size: 2.5rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.cert2 {
+    margin-bottom: 10px;
+    font-family: "PRIMER";
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.skillsheader {
+    text-align: center;
+    font-family: 'WELTRON2';
+    font-size: 2.5rem; 
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+.mainskillsbar {
+    width: 100%;
+
+}
+
+.skills {
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    font-weight: bold;
+    background: linear-gradient(to right,#0f6ea5, #62baec); 
+    box-shadow:0 0 10px rgb(104, 104, 104)
+}
+
+.skillscon {
+padding: 1.5rem;
+}
+
+.skillsheading {
+    padding-left: 20px;
+    font-family: "PRIMER";
+    font-size: 2rem;
+    font-weight:bold;
+    line-height:0;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(104, 104, 104);
+}

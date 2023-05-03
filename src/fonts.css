@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'WELTRON2';
+    src: local('WELTRON2'), url(./Fonts/WELTRON2.TTF) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'seriously';
+    src: local('seriously'), url(./Fonts/seriously.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'lucid';
+    src: local('lucid'), url(./Fonts/lucid.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'PRIMER';
+    src: local('PRIMER'), url(./Fonts/PRIMER.ttf) format('truetype');
+}
