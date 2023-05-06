@@ -3,7 +3,7 @@ import References from "./pages/References";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Education from "./pages/Education"
-import { Route, Router, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Footer from "./Components/Footer";
 
 
