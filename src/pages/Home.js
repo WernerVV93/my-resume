@@ -5,7 +5,7 @@ return (
 <>
     <div className='container1'>
         <h1 className='mainheader'>Welcome to my Resume</h1>
-        <img src={Werner} className='Werner' alt="wernerimage" loading="lazy" />
+        <img src={Werner} className='Werner' alt="wernerimage"/>
     <div className='Textstyle'>    
        
         <h1 className='header1'>About Myself</h1> 
